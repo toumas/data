@@ -1,1 +1,1 @@
-http://my-json-server.typicode.com/user/data/products
+http://my-json-server.typicode.com/toumas/data/products
